@@ -1,7 +1,6 @@
-tomcatGradleExample
+Tomcat Gradle Hotswap Example
 ===================
 
-tomcat gradle hot swap example
+gradle tomcatRun -> http://localhost:8090/testapp/
 
-gradle tomcatRun visit http://localhost:8090/testapp/
-gradle classes visit http://localhost:8090/testapp/
+gradle classes then refresh 
